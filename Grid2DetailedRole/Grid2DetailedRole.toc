@@ -7,9 +7,9 @@
 ## X-License: BSD3
 
 #@no-lib-strip@
-libs\LibStub\LibStub.lua
-libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
-libs\LibGroupInSpecT-1.1\LibGroupInSpecT-1.1.lua
+Libs\LibStub\LibStub.lua
+Libs\CallbackHandler-1.0\CallbackHandler-1.0.lua
+Libs\LibGroupInSpecT-1.1\LibGroupInSpecT-1.1.lua
 #@end-no-lib-strip@
 
-main.lua
+Grid2DetailedRole.lua
