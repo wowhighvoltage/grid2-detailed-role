@@ -2,6 +2,7 @@
 ## Title: Grid2 Detailed Role Stuats
 ## Author: High Voltage
 ## Version: 0.1
+## Dependencies: Grid2
 ## X-Website: https://github.com/wowhighvoltage/grid2-detailed-role
 ## X-Category: Library
 ## X-License: BSD3
